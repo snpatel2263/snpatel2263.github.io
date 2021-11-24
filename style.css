@@ -7,3 +7,6 @@ img {
 	width: 50%;
 	height: auto;
 }
+.mydp img {
+	border-radius: 50%;
+}
