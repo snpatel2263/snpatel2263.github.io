@@ -3,7 +3,18 @@ body {
 	background-color: #1B1B1B;
 	color: #fff;
 }
-img {
-	width: 50%;
+.author-picture {
+	width: 20%;
 	height: auto;
+}
+.author-picture img {
+	border-radius: 50%;
+}
+h1,h2,h3 {
+	font-family: Questrial, Arial, Helvetica, sans-serif;
+}
+p {
+	font-size: 17px;
+	margin: 0 !important;
+	line-height: 30px;
 }
